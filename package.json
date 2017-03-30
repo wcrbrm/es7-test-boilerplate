@@ -22,7 +22,6 @@
     "babel-preset-stage-1": "*",
     "babel-register": "*",
     "chai": "*",
-    "enzyme": "*",
     "jest": "*",
     "mocha": "*",
     "react-test-renderer": "*"
