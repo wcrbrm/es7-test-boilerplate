@@ -1,5 +1,6 @@
 import React from 'react';
 import { expect, assert } from 'chai';
+import renderer from 'react-test-renderer';
 
 describe('Describing', () => {
   it('expect immutable', () => {
@@ -9,3 +10,4 @@ describe('Describing', () => {
     expect(personCopy.age).to.equal(28);
   });
 });
+
